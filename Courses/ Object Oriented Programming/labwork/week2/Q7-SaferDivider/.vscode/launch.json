@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FixedDivider",
+            "request": "launch",
+            "mainClass": "FixedDivider",
+            "args": "5.0 1.0"
+        }
+    ]
+}

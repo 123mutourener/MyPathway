@@ -1,0 +1,67 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VideoStore",
+            "request": "launch",
+            "mainClass": "q8.VideoStore",
+            "projectName": "week7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Video",
+            "request": "launch",
+            "mainClass": "q8.Video",
+            "projectName": "week7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NoughtsAndCrosses",
+            "request": "launch",
+            "mainClass": "q7.NoughtsAndCrosses",
+            "projectName": "week7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordCounter",
+            "request": "launch",
+            "mainClass": "q6.WordCounter",
+            "projectName": "week7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tokenizer",
+            "request": "launch",
+            "mainClass": "q6.Tokenizer",
+            "projectName": "week7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Interval",
+            "request": "launch",
+            "mainClass": "q3.Interval",
+            "projectName": "week7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReadFile",
+            "request": "launch",
+            "mainClass": "q3.ReadFile",
+            "projectName": "week7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Favourites",
+            "request": "launch",
+            "mainClass": "q2.music.Favourites",
+            "projectName": "week7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dalek3",
+            "request": "launch",
+            "mainClass": "q1.Dalek3",
+            "projectName": "week7"
+        }
+    ]
+}

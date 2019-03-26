@@ -1,0 +1,75 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dalek2",
+            "request": "launch",
+            "mainClass": "q6.Dalek2",
+            "projectName": "week5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dalek1",
+            "request": "launch",
+            "mainClass": "q6.Dalek1",
+            "projectName": "week5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OneTimePadDecipher",
+            "request": "launch",
+            "mainClass": "q5.OneTimePadDecipher",
+            "projectName": "week5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OneTimePadEncipher",
+            "request": "launch",
+            "mainClass": "q5.OneTimePadEncipher",
+            "projectName": "week5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Voronoi",
+            "request": "launch",
+            "mainClass": "questions.Voronoi",
+            "projectName": "week5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Voronoi",
+            "request": "launch",
+            "mainClass": "q4.Voronoi",
+            "projectName": "week5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Voronoi",
+            "request": "launch",
+            "mainClass": "Voronoi",
+            "projectName": "week5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AbsolutePath",
+            "request": "launch",
+            "mainClass": "q3.AbsolutePath",
+            "projectName": "week5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SplitPathName",
+            "request": "launch",
+            "mainClass": "q3.SplitPathName",
+            "projectName": "week5",
+            "args": "/home/ben/todo.txt /home/bob/work/flowerpotlist.xls /programs/MyClass.java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NbyN",
+            "request": "launch",
+            "mainClass": "q1.NbyN",
+            "projectName": "week5"
+        }
+    ]
+}

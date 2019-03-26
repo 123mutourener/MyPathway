@@ -1,0 +1,51 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImQuadraticSolver",
+            "request": "launch",
+            "mainClass": "ImQuadraticSolver",
+            "args": "1.0 -2.0 2.0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Gambler",
+            "request": "launch",
+            "mainClass": "Gambler",
+            "args": "2 20 5 0.75"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LopsidedNumberTriangle",
+            "request": "launch",
+            "mainClass": "LopsidedNumberTriangle"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiplesLoopRange",
+            "request": "launch",
+            "mainClass": "MultiplesLoopRange",
+            "args": "10 20 3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SquaresLoop",
+            "request": "launch",
+            "mainClass": "SquaresLoop"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SaferQuadraticSolver",
+            "request": "launch",
+            "mainClass": "SaferQuadraticSolver",
+            "args": "0.0 -3.0 2.0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "Distance1",
+            "args": "1 10"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DisplayDeck",
+            "request": "launch",
+            "mainClass": "deck_of_cards_answer.DisplayDeck",
+            "projectName": "designClasses"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CardGame",
+            "request": "launch",
+            "mainClass": "deck_of_cards.CardGame",
+            "projectName": "designClasses"
+        }
+    ]
+}

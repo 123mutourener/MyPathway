@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LargestDouble",
+            "request": "launch",
+            "mainClass": "LargestDouble",
+            "args": "31.5 26.8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "LongestDouble",
+            "args": "31.5 26.8"
+        }
+    ]
+}
