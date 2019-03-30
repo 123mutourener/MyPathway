@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImageEditor2",
+            "request": "launch",
+            "mainClass": "q6.ImageEditor2",
+            "projectName": "week6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImageEditor1",
+            "request": "launch",
+            "mainClass": "q6.ImageEditor1",
+            "projectName": "week6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImageEditor1",
+            "request": "launch",
+            "mainClass": "ImageEditor1",
+            "projectName": "week6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DNAStrand",
+            "request": "launch",
+            "mainClass": "q4.DNAStrand",
+            "projectName": "week6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreditCard",
+            "request": "launch",
+            "mainClass": "q3.CreditCard",
+            "projectName": "week6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Favourites",
+            "request": "launch",
+            "mainClass": "q2.Favourites",
+            "projectName": "week6"
+        }
+    ]
+}

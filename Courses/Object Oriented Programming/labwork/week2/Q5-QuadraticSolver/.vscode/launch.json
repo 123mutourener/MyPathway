@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuadraticSolver",
+            "request": "launch",
+            "mainClass": "QuadraticSolver",
+            "args": "1.0 10.0 0.0",
+        }
+    ]
+}

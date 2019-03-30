@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PolarCoordinates",
+            "request": "launch",
+            "mainClass": "PolarCoordinates",
+            "args": "2.0 -3.0"
+        }
+    ]
+}

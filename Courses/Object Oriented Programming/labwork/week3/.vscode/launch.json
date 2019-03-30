@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sieve",
+            "request": "launch",
+            "mainClass": "Sieve",
+            "args": "19"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Mode",
+            "request": "launch",
+            "mainClass": "Mode",
+            "args": "1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TempMedian",
+            "request": "launch",
+            "mainClass": "TempMedian",
+            "args": "34 . . . + . - - - . +"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MeanVariance",
+            "request": "launch",
+            "mainClass": "MeanVariance",
+            "args": "1.0 2.0 3.4 2.3 5.6 3.4 2.1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayRotate",
+            "request": "launch",
+            "mainClass": "ArrayRotate",
+            "args": "1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArithmeticSeries",
+            "request": "launch",
+            "mainClass": "ArithmeticSeries",
+            "args": "5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FloatDiv",
+            "request": "launch",
+            "mainClass": "FloatDiv",
+            "args": "23 7"
+        }
+    ]
+}
