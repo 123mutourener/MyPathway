@@ -25,6 +25,14 @@ The projects is combined with 3 parts:
 ## Identify_Customer_Segments
 The project link is: https://github.com/hyw1994/Identify_Customer_Segments
 
+This project generate customer clusters for the international service provider Arvato with the goal of optimizing customer outreach for a mail order company.
+
+The project is combined with 3 parts:
+
+1. Load the data and apply dimensionality reduction techniques;
+2. Implement clustering algorithms to segment customers;
+3. Find the strongest customer group by comparing clustered customer data to demographics data;
+
 # Artificial Intelligence Programming projects by Unacity
 
 ## My_Wechat_Friends
