@@ -1,8 +1,16 @@
 # Data Scientist Term 1 projects by Udacity
 
 ## Flower_Image_Classifier
-In this project, I developed code for a flower image classifier built with PyTorch, then convert it into a command line application.
-https://github.com/hyw1994/Flower_Image_Classifier
+The project link is: https://github.com/hyw1994/Flower_Image_Classifier
+
+In this project, I developed code for an image classifier built with PyTorch for 102 flower categories, then convert it into a command line application.
+
+The project is combined with 3 parts:
+
+1. Load and preprocess the image dataset;
+2. Train the image classifier on your dataset;
+3. Use the trained classifier to predict image content;
+
 
 https://github.com/hyw1994/Finding_Donors_for_Charity
 
