@@ -11,14 +11,18 @@ The project is combined with 3 parts:
 2. Train the image classifier on your dataset;
 3. Use the trained classifier to predict image content;
 
+## Finding_Donors_for_Charity
+The project link is: https://github.com/hyw1994/Finding_Donors_for_Charity
 
-https://github.com/hyw1994/Finding_Donors_for_Charity
-
-https://github.com/hyw1994/Identify_Customer_Segments
+## Identify_Customer_Segments
+The project link is: https://github.com/hyw1994/Identify_Customer_Segments
 
 # Artificial Intelligence Programming projects by Unacity
-https://github.com/hyw1994/My_Wechat_Friends
 
-https://github.com/hyw1994/Robot_Controller
+## My_Wechat_Friends
+The project link is: https://github.com/hyw1994/My_Wechat_Friends
+
+## Robot_Controller
+The project link is: https://github.com/hyw1994/Robot_Controller
 
 
