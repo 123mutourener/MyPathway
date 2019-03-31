@@ -5,7 +5,7 @@ https://github.com/hyw1994/Finding_Donors_for_Charity
 
 https://github.com/hyw1994/Identify_Customer_Segments
 
-# Artificial Intelligence Programming by Unacity
+# Artificial Intelligence Programming projects by Unacity
 https://github.com/hyw1994/My_Wechat_Friends
 
 https://github.com/hyw1994/Robot_Controller
