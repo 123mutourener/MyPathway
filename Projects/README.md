@@ -12,7 +12,7 @@ The project is combined with 3 parts:
 3. Use the trained classifier to predict image content;
 
 ## Finding_Donors_for_Charity
-The project link is: https://github.com/hyw1994/Finding_Donors_for_Charity
+The project link is: https://github.com/hyw1994/Finding_Donors_for_CharityML
 
 CharityML is a fictitious charity organization located in the heart of Silicon Valley that was established to provide financial support for people eager to learn machine learning. After nearly 32,000 letters were sent to people in the community, CharityML determined that every donation they received came from someone that was making more than $50,000 annually. 
 
