@@ -32,13 +32,3 @@ The project is combined with 3 parts:
 1. Load the data and apply dimensionality reduction techniques;
 2. Implement clustering algorithms to segment customers;
 3. Find the strongest customer group by comparing clustered customer data to demographics data;
-
-# Artificial Intelligence Programming projects by Unacity
-
-## My_Wechat_Friends
-The project link is: https://github.com/hyw1994/My_Wechat_Friends
-
-## Robot_Controller
-The project link is: https://github.com/hyw1994/Robot_Controller
-
-
