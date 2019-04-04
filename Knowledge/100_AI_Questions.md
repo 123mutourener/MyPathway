@@ -30,7 +30,9 @@ Puring_the_Search_Tree</i></b>
 </div>
 
 ## 4. What is adversarial search and when will we use it?
-"Adversarial Search" means that we want to find the best move to win the game. It happends when we are fitting with someone or some other agents. The algorithm we can use is the "Mini-Max algorithm". 
+"Adversarial Search" means that we want to find the best move to win the game. It happends when we are fitting with someone or some other agents. The algorithm we can use is the "Mini-Max algorithm". It means that we are trying to maximize our chance to win, and our opponent are trying to minimize our chance to wim.
+
+It is effective because when we rule out a move as being bad, we are actually getting ride of it's potential successors from consideration.
 
 <div align= center>
 <img src="imgs/mini-max_algorithm.png" width=80%/>
