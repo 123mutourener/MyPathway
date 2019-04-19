@@ -40,3 +40,13 @@ It is effective because when we rule out a move as being bad, we are actually ge
 
 Mini-Max_Algorithm</i></b>
 </div>
+
+## 5. How to solve the Monty Hall problem?
+First, please refer to [Wiki-Monty Hall](https://en.wikipedia.org/wiki/Monty_Hall_problem) for more description of the problem.
+
+Now, let's explain this problem with the language of probability.
+
+Because the probability that the car is behind the door is the same for all doors, then:
+<div align=center>
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}"/>
+</div>
